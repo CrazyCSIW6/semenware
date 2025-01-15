@@ -1,5 +1,1 @@
-:nuke: Welcome to IW4C6! :nuke:
-The latest version is Beta v1.2.2.
-Join our Discord: discord.gg/3JFVEm3P7f
-Beware of bad hosts deranking with custom scripts! You don't want to end up like TouchMyPiano, do you?
-Don't type unlockstats in the console! You will be punished...
+:nuke: Welcome to IW4C6! :nuke:               The latest version is Beta v1.2.2.               Join our Discord: discord.gg/3JFVEm3P7f               Beware of bad hosts deranking with custom scripts! You don't want to end up like TouchMyPiano, do you?               Don't type unlockstats in the console! You will be punished...
