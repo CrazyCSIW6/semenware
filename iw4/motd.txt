@@ -1,4 +1,4 @@
-Welcome to IW4C6!
+:nuke: Welcome to IW4C6! :nuke:
 The latest version is Beta v1.2.2.
 Join our Discord: discord.gg/3JFVEm3P7f
 Beware of bad hosts deranking with custom scripts!
